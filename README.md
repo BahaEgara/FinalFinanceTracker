@@ -40,8 +40,7 @@ Ensure you have the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://campus.cs.le.ac.uk/gitlab/pgt_project/24_25_spring/vps5
-cd MyApp/FinanceTracker
+https://github.com/BahaEgara/FinalFinanceTracker.git
 ```
 
 ### 2. Open in Android Studio
