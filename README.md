@@ -119,9 +119,7 @@ finance-tracker-app/
 
 ## Screen
 
-Below is one demo screenshot for reference:
 
-![Demo Screenshot](Media/startPage.jpg)
 
 Other screenshots are available in the **media** folder.
 
